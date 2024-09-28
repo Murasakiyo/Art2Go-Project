@@ -1,0 +1,6 @@
+All updates of figma is here
+
+27/9/2024, Yaro, Figma
+- Compiled every page into a specific folder for organisation. 
+- Added Home page
+- Added Login Page
