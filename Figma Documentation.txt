@@ -6,9 +6,10 @@ All updates of figma is here
 - Added Login Page
 
 24/9/2024 - 29/9/2024, Brian Ng 
-Designed create account page
-Designed navigation bar 
-Designed artwork portfolio page
-Helped designed commission page
-Designed pricing page 
-Designed home pages
+- Designed create account page
+- Designed navigation bar 
+- Designed artwork portfolio page
+- Helped designed commission page
+- Designed pricing page 
+- Designed home pages
+- Added account settings page
