@@ -2,5 +2,13 @@ All updates of figma is here
 
 27/9/2024, Yaro, Figma
 - Compiled every page into a specific folder for organisation. 
-- Added Home page
+- Added Main page
 - Added Login Page
+
+24/9/2024 - 29/9/2024, Brian Ng 
+Designed create account page
+Designed navigation bar 
+Designed artwork portfolio page
+Helped designed commission page
+Designed pricing page 
+Designed home pages
