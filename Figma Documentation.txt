@@ -5,7 +5,7 @@ All updates of figma is here
 - Added Main page
 - Added Login Page
 
-24/9/2024 - 29/9/2024, Brian Ng 
+24/9/2024 - 28/9/2024, Brian Ng 
 - Designed create account page
 - Designed navigation bar 
 - Designed artwork portfolio page
@@ -13,3 +13,6 @@ All updates of figma is here
 - Designed pricing page 
 - Designed home pages
 - Added account settings page
+
+29/9/24, Brian Ng 
+- Added collection pages
