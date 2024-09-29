@@ -17,3 +17,10 @@ All updates of figma is here
 29/9/24, Brian Ng 
 - Added collection pages
 - Added submitted page
+
+30/9/2024 Yaro, Figma
+- Fixed layers
+- Adjusted account and main page
+- Adjusted prototype and redirection
+- Redesigned the portfolio collections
+- Updated Account settings
