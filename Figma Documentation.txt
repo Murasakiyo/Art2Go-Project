@@ -16,3 +16,4 @@ All updates of figma is here
 
 29/9/24, Brian Ng 
 - Added collection pages
+- Added submitted page
