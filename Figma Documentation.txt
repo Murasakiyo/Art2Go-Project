@@ -24,3 +24,8 @@ All updates of figma is here
 - Adjusted prototype and redirection
 - Redesigned the portfolio collections
 - Updated Account settings
+
+30/9/24, Brian Ng 
+- Added notification page
+- Added Terms of Service page
+
