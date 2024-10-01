@@ -24,3 +24,8 @@ All updates of figma is here
 - Adjusted prototype and redirection
 - Redesigned the portfolio collections
 - Updated Account settings
+
+30/9/2024 Yaro, Figma
+- Adjusted commission layers and folders
+- Add Account Deletion 
+- Added prototype redirection for Creating Account and Commissions
