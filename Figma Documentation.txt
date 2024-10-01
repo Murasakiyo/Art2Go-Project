@@ -29,3 +29,7 @@ All updates of figma is here
 - Adjusted commission layers and folders
 - Add Account Deletion 
 - Added prototype redirection for Creating Account and Commissions
+
+1/9/2024 Yaro, Figma
+- Exported figma images and place in folder
+- Added all prototype functions
